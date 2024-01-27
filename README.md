@@ -36,8 +36,7 @@
 - **2022 ROKAF Hackthon - 4th Place Award** | 2022 공군 창의·혁신 아이디어 공모 해커톤 - 장려상
 - **2023 iNThon - 2nd Place Award** | 2023 고려대학교 정보대학 데이터톤 - 금상
 
-
-## ✨ Stats
+---
 &emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hsmin920)](https://solved.ac/hsmin920/)
 
 <!--
