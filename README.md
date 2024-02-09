@@ -18,6 +18,9 @@
 - Large Language Model (LLM)
 - MLOps, BE
 
+## 🏢 Career
+- ('24.03 ~) ML Engineer Internship at [Corca](https://corca.ai) | 코르카 ML 엔지니어 인턴
+
 ## 🎓 Education
 - ('16.03 ~ '19.02) Sunrin Internet High School, Department of Information and Communication | 선린인터넷고등학교 정보통신과
 - ('19.03 ~) Korea University, Department of Computer Science and Engineering | 고려대학교 정보대학 컴퓨터학과
