@@ -19,7 +19,7 @@
 - MLOps, BE
 
 ## 🏢 Career
-- ('24.03 ~) ML Engineer Internship at [Corca](https://corca.ai) | 코르카 ML 엔지니어 인턴
+- ('24.03 ~) ML Engineer Internship at [Corca](https://corca.team) | 코르카 ML 엔지니어 인턴
 
 ## 🎓 Education
 - ('16.03 ~ '19.02) Sunrin Internet High School, Department of Information and Communication | 선린인터넷고등학교 정보통신과
@@ -38,6 +38,7 @@
 - **2022 ROKAF Cyber Warrior Contest - 2nd Place Award** | 2022 공군 사이버전사경연대회 - 우수상
 - **2022 ROKAF Hackthon - 4th Place Award** | 2022 공군 창의·혁신 아이디어 공모 해커톤 - 장려상
 - **2023 iNThon - 2nd Place Award** | 2023 고려대학교 정보대학 데이터톤 - 금상
+- **2024 LG Aimers - Finals** | 2024 LG Aimers 오프라인 해커톤 - 본선 진출
 
 ---
 &emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hsmin920)](https://solved.ac/hsmin920/)
