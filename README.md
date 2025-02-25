@@ -14,11 +14,12 @@
 ![Android](https://img.shields.io/badge/Android-34AB53?style=flat-square&logo=android&logoColor=white)
 
 ## 🥰 Interest
+- Information Retrieval (IR)
 - Natural Language Processing (NLP)
-- Large Language Model (LLM)
 - MLOps, BE
 
 ## 🏢 Career
+- ('25.02 ~ '25.05) ML Engineer Internship at [Karrot](https://daangn.com) | 당근 ML 엔지니어 인턴
 - ('24.03 ~ '24.08) ML Engineer Internship at [Corca](https://corca.team) | 코르카 ML 엔지니어 인턴
 
 ## 🎓 Education
@@ -33,12 +34,9 @@
 
 ## 🏆 Awards & Achievements
 - **2018 KOI (Korea Olympiad in Informatics) - 3rd Place Award** | 2018 한국정보올림피아드 경시부문 - 동상
-- **2019 KCPC (Korea University Collegiate Programming Contest) - 3rd Place Award** | 2019 고려대학교 프로그래밍 경시대회 - 우수상
-- **2020 Korea University Startup Express - Finals** | 2020 고려대학교 Startup Express (창업경진대회) - 본선 진출
 - **2022 ROKAF Cyber Warrior Contest - 2nd Place Award** | 2022 공군 사이버전사경연대회 - 우수상
 - **2022 ROKAF Hackthon - 4th Place Award** | 2022 공군 창의·혁신 아이디어 공모 해커톤 - 장려상
 - **2023 iNThon - 2nd Place Award** | 2023 고려대학교 정보대학 데이터톤 - 금상
-- **2024 LG Aimers - Finals** | 2024 LG Aimers 오프라인 해커톤 - 본선 진출
 
 ---
 &emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hsmin920)](https://solved.ac/hsmin920/)
